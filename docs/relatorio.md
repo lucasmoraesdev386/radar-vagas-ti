@@ -1,24 +1,24 @@
 # Relatório do Radar (todos os estados)
 
-Gerado em 2026-11-16T10:04:07Z. Coletas de 2026-11-16T09:43:31Z até 2026-11-16T10:04:07Z.
+Gerado em 2026-11-17T01:18:15Z. Coletas de 2026-11-16T09:43:31Z até 2026-11-17T01:18:15Z.
 
-- Vagas coletadas: **67** de **55** empresas
-- Vagas com descrição (base das análises de tecnologia): **67**
+- Vagas coletadas: **74** de **58** empresas
+- Vagas com descrição (base das análises de tecnologia): **74**
 
 ## Vagas por nível
 
 | grupo | vagas | pct |
 |---|---|---|
-| junior | 40 | 59.7 |
-| estagio | 27 | 40.3 |
+| junior | 43 | 58.1 |
+| estagio | 31 | 41.9 |
 
 ## Vagas por modalidade
 
 | grupo | vagas | pct |
 |---|---|---|
-| presencial | 39 | 58.2 |
-| hibrido | 19 | 28.4 |
-| remoto | 9 | 13.4 |
+| presencial | 44 | 59.5 |
+| hibrido | 21 | 28.4 |
+| remoto | 9 | 12.2 |
 
 ## Tecnologias mais citadas em vagas de estágio e júnior
 
@@ -26,39 +26,39 @@ _Mede menções no anúncio, não requisitos obrigatórios._
 
 | tecnologia | categoria | vagas | pct |
 |---|---|---|---|
-| SQL | banco de dados | 21 | 31.3 |
-| Python | linguagem | 17 | 25.4 |
-| Excel | dados | 12 | 17.9 |
-| Inglês | idioma | 12 | 17.9 |
-| Scrum/Agile | metodologia | 12 | 17.9 |
-| AWS | cloud | 10 | 14.9 |
-| JavaScript | linguagem | 10 | 14.9 |
-| APIs REST | arquitetura | 8 | 11.9 |
-| Git | ferramentas | 8 | 11.9 |
-| HTML/CSS | web | 7 | 10.4 |
-| Azure | cloud | 6 | 9.0 |
-| GCP | cloud | 6 | 9.0 |
-| Java | linguagem | 6 | 9.0 |
-| Power BI | dados | 6 | 9.0 |
-| React | framework | 6 | 9.0 |
+| SQL | banco de dados | 23 | 31.1 |
+| Python | linguagem | 19 | 25.7 |
+| Inglês | idioma | 16 | 21.6 |
+| Scrum/Agile | metodologia | 14 | 18.9 |
+| Excel | dados | 13 | 17.6 |
+| JavaScript | linguagem | 11 | 14.9 |
+| AWS | cloud | 10 | 13.5 |
+| Power BI | dados | 9 | 12.2 |
+| APIs REST | arquitetura | 8 | 10.8 |
+| Git | ferramentas | 8 | 10.8 |
+| HTML/CSS | web | 8 | 10.8 |
+| Java | linguagem | 7 | 9.5 |
+| RPA | plataforma | 7 | 9.5 |
+| Azure | cloud | 6 | 8.1 |
+| GCP | cloud | 6 | 8.1 |
 
 ## Empresas que mais anunciam
 
 | empresa | vagas |
 |---|---|
-| Quality Digital | 9 |
+| Quality Digital | 11 |
 | AZZAS 2154 FASHION & LIFESTYLE | 2 |
 | BIP Brasil | 2 |
+| Inatel | 2 |
+| NCS | 2 |
 | QCA | 2 |
 | Terras | 2 |
 | ADMINISTRADOR DE REDES | 1 |
 | Alares Internet | 1 |
 | AlmapBBDO | 1 |
-| Alvoar Lácteos | 1 |
-| Brainfarma | 1 |
 
 ## Vagas novas por semana
 
 | semana | novas |
 |---|---|
-| 2026-W46 | 67 |
+| 2026-W46 | 74 |
