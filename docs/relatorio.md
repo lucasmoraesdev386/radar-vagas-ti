@@ -1,24 +1,24 @@
 # Relatório do Radar (todos os estados)
 
-Gerado em 2026-11-17T18:21:58Z. Coletas de 2026-11-16T09:43:31Z até 2026-11-17T18:21:58Z.
+Gerado em 2026-11-18T17:54:50Z. Coletas de 2026-11-16T09:43:31Z até 2026-11-18T17:54:50Z.
 
-- Vagas coletadas: **79** de **60** empresas
-- Vagas com descrição (base das análises de tecnologia): **79**
+- Vagas coletadas: **81** de **62** empresas
+- Vagas com descrição (base das análises de tecnologia): **81**
 
 ## Vagas por nível
 
 | grupo | vagas | pct |
 |---|---|---|
-| junior | 46 | 58.2 |
-| estagio | 33 | 41.8 |
+| junior | 46 | 56.8 |
+| estagio | 35 | 43.2 |
 
 ## Vagas por modalidade
 
 | grupo | vagas | pct |
 |---|---|---|
-| presencial | 48 | 60.8 |
-| hibrido | 22 | 27.8 |
-| remoto | 9 | 11.4 |
+| presencial | 49 | 60.5 |
+| hibrido | 23 | 28.4 |
+| remoto | 9 | 11.1 |
 
 ## Tecnologias mais citadas em vagas de estágio e júnior
 
@@ -26,21 +26,21 @@ _Mede menções no anúncio, não requisitos obrigatórios._
 
 | tecnologia | categoria | vagas | pct |
 |---|---|---|---|
-| SQL | banco de dados | 24 | 30.4 |
-| Python | linguagem | 21 | 26.6 |
-| Inglês | idioma | 17 | 21.5 |
-| Excel | dados | 15 | 19.0 |
-| Scrum/Agile | metodologia | 15 | 19.0 |
-| JavaScript | linguagem | 12 | 15.2 |
-| Power BI | dados | 11 | 13.9 |
-| AWS | cloud | 10 | 12.7 |
-| APIs REST | arquitetura | 8 | 10.1 |
-| Git | ferramentas | 8 | 10.1 |
-| HTML/CSS | web | 8 | 10.1 |
-| Java | linguagem | 8 | 10.1 |
-| RPA | plataforma | 8 | 10.1 |
-| Azure | cloud | 6 | 7.6 |
-| GCP | cloud | 6 | 7.6 |
+| SQL | banco de dados | 24 | 29.6 |
+| Python | linguagem | 21 | 25.9 |
+| Inglês | idioma | 18 | 22.2 |
+| Excel | dados | 15 | 18.5 |
+| Scrum/Agile | metodologia | 15 | 18.5 |
+| JavaScript | linguagem | 12 | 14.8 |
+| Power BI | dados | 11 | 13.6 |
+| AWS | cloud | 10 | 12.3 |
+| APIs REST | arquitetura | 8 | 9.9 |
+| Git | ferramentas | 8 | 9.9 |
+| HTML/CSS | web | 8 | 9.9 |
+| Java | linguagem | 8 | 9.9 |
+| RPA | plataforma | 8 | 9.9 |
+| Azure | cloud | 6 | 7.4 |
+| GCP | cloud | 6 | 7.4 |
 
 ## Empresas que mais anunciam
 
@@ -61,4 +61,4 @@ _Mede menções no anúncio, não requisitos obrigatórios._
 
 | semana | novas |
 |---|---|
-| 2026-W46 | 79 |
+| 2026-W46 | 81 |
