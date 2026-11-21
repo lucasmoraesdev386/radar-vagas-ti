@@ -1,6 +1,6 @@
 # Relatório do Radar (todos os estados)
 
-Gerado em 2026-11-20T17:40:37Z. Coletas de 2026-11-16T09:43:31Z até 2026-11-20T17:40:37Z.
+Gerado em 2026-11-21T16:42:06Z. Coletas de 2026-11-16T09:43:31Z até 2026-11-21T16:42:06Z.
 
 - Vagas coletadas: **90** de **67** empresas
 - Vagas com descrição (base das análises de tecnologia): **90**
